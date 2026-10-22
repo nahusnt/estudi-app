@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 3 Olas Horizontales Minimalistas Estudi -->
+    <path
+        android:pathData="M 26,38 C 33,31 41,31 48,38 C 55,45 63,45 70,38 C 77,31 82,31 82,38"
+        android:strokeWidth="5.5"
+        android:strokeColor="#111111"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M 26,54 C 33,47 41,47 48,54 C 55,61 63,61 70,54 C 77,47 82,47 82,54"
+        android:strokeWidth="5.5"
+        android:strokeColor="#111111"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M 26,70 C 33,63 41,63 48,70 C 55,77 63,77 70,70 C 77,63 82,63 82,70"
+        android:strokeWidth="5.5"
+        android:strokeColor="#111111"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>
