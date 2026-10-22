@@ -27,14 +27,37 @@
 * **☑️ Subtareas con Checklists:** Desglosa tus proyectos en hasta 6 subtareas con completado automático al finalizar cada ítem.
 * **⚡ Creación Rápida de Materias:** Añade y selecciona asignaturas al instante directamente desde el formulario de tareas.
 * **🎨 Temas Visuales Avanzados:** Combina modos **Claro**, **Oscuro** o **Amoled** (negro puro) con paletas de color de acento independientes (*Violeta*, *Esmeralda*, *Azul Océano*, *Rosa*, *Menta*).
-* **📱 Widgets en Tiempo Real:** Mantén tu día organizado con 4 widgets interactivos (Hoy, Semana, Lista semanal y Mensual enriquecido).
+* **📱 Widgets en Tiempo Real:** Mantén tu día organizado con 4 widgets interactivos (Hoy, Semana, Lista semanal y Mensual).
 * **🔒 Confirmación de Borrado:** Aviso de seguridad ante asignaturas con actividades asociadas.
 
 ---
 
-## 📱 Capturas de Pantalla
+## 📱 Capturas de Pantalla & Widgets
 
-*(Pronto encontrarás aquí una galería visual con la interfaz y los widgets de Estudi)*
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td align="center">
+        <p><b>Pantalla Principal (Tema Amoled)</b></p>
+        <img src="docs/screenshots/main_screen.png" width="240" alt="Pantalla Principal Estudi" />
+      </td>
+      <td align="center">
+        <p><b>Widget de Hoy</b></p>
+        <img src="docs/screenshots/widget_today.png" width="240" alt="Widget Hoy" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <p><b>Widget de Semana</b></p>
+        <img src="docs/screenshots/widget_week.png" width="240" alt="Widget Semana" />
+      </td>
+      <td align="center">
+        <p><b>Widget Mensual con Entregas</b></p>
+        <img src="docs/screenshots/widget_monthly.png" width="240" alt="Widget Mensual" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
