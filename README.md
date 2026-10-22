@@ -1,7 +1,11 @@
 <div align="center">
 
-# 🌊 **Estudi**
+<img src="docs/logo.png" width="130" alt="Estudi Logo" style="border-radius: 24px;" />
+
+# 🌊 **Estudi (Android)**
 ### *Tu compañero académico inteligente*
+
+[![Ver Versión Web](https://img.shields.io/badge/🌐_Ver_Versión_Web-Estudi_Web-111111?style=for-the-badge&logoColor=white)](https://github.com/nahusnt/estudi-web)
 
 ![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-1.9+-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -58,6 +62,13 @@
     </tr>
   </table>
 </div>
+
+---
+
+## 🌐 Ecosistema Estudi
+
+* **[Estudi (Android)](https://github.com/nahusnt/estudi-app):** Aplicación nativa con Jetpack Compose y Widgets interactivos.
+* **[Estudi Web](https://github.com/nahusnt/estudi-web):** Aplicación web ligera para organizar tareas personales con categorías y filtros.
 
 ---
 
