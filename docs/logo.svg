@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Fondo blanco redondeado estilo App Icon -->
+  <rect width="512" height="512" rx="112" fill="#FFFFFF" />
+
+  <!-- Olas minimalistas escaladas al centro (Viewport original 108x108 escalado a 512x512) -->
+  <g transform="scale(4.74) translate(5, 5)">
+    <path d="M 26,38 C 33,31 41,31 48,38 C 55,45 63,45 70,38 C 77,31 82,31 82,38"
+          fill="none" stroke="#111111" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M 26,54 C 33,47 41,47 48,54 C 55,61 63,61 70,54 C 77,47 82,47 82,54"
+          fill="none" stroke="#111111" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M 26,70 C 33,63 41,63 48,70 C 55,77 63,77 70,70 C 77,63 82,63 82,70"
+          fill="none" stroke="#111111" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+</svg>
